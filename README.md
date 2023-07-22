@@ -38,7 +38,7 @@ $ npm run dev
 ## Técnologias utilizadas
 
 - [React](https://react.dev)
-- [React Router DOM] (https://reactrouter.com/)
+- [React Router DOM](https://reactrouter.com/)
 
 ## Pessoas autorais
 
