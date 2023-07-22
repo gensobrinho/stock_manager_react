@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/stock_manager_react"
+  base: "https://gensobrinho.github.io/stock_manager_react/"
 })
